@@ -1,0 +1,5 @@
+<sly data-sly-use.model="com.mysites.core.models.ImageModel"></sly>
+<div class="image-component">
+    <img src="${model.image}" alt="${model.description @ context='attribute'}"/> 
+    <p>${model.description}</p>
+</div>
