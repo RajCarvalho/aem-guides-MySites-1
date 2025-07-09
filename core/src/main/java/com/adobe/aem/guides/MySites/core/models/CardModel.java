@@ -19,6 +19,8 @@ public class CardModel{
 
 @ValueMapValue
 private String description;
+
+@ValueMapValue
 private String text;
 
 public String getDescription(){
