@@ -1,4 +1,4 @@
-package com.mysites.core.models;
+package com.adobe.aem.guides.MySites.core.models;
 
 import org.apache.sling.api.resource.Resource;
 import org.apache.sling.models.annotations.Model;
